@@ -119,3 +119,6 @@
 - [SKEMPI 2.0 Dataset](https://life.bsc.es/pid/skempi2/)
 - CatBoost Documentation: https://catboost.ai/
 
+## 👾 Запуск проекта 
+- Запуск exploratory_analysis.ipynb
+- Запуск training.ipynb
